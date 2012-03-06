@@ -1,0 +1,44 @@
+* {
+	border: 0;
+	margin: 0;
+	outline: 0;
+}
+
+html, body {
+	height: 100%;
+	background-color: #eee;
+}
+
+.slide {
+	color: #333;
+	font-size: 1.5em;
+	padding: 5%;
+	text-shadow: #fff 0 1px 0;
+}
+
+.slide h1 {
+	margin-bottom: 0.5em;
+}
+
+.slide ul {
+	list-style-type: circle;
+}
+
+.slide li {
+	padding: 0.2em 0;
+}
+
+.slide a {
+	color: #008FFF;
+	text-decoration: none;
+}
+
+.slide a:hover {
+	color: #00BFFF;
+}
+
+#title {
+	font-size: 4em;
+	position: absolute;
+	top: 30%;
+}
