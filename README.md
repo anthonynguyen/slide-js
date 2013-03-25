@@ -4,7 +4,7 @@
 
 
 ### Demo
-[http://anknguyen.github.com/slide-js](https://anknguyen.github.com/slide-js)
+[http://clearskies.github.com/slide-js](https://clearskies.github.com/slide-js)
 
 
 ### License
